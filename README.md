@@ -1,9 +1,11 @@
 ### Hello World!! 👋
 
-### And welcome to my domain... mua hahaha!
+### Now, you are in my domain... feel free and WELCOME!
+
+Fun facts about me:
 
 - 🌱 Studying forever and just for fun...
-- 👯 I’m looking to collaborate on a team...
+- 👯 looking to collaborate on a team...
 - 😄 Pronouns: he/him...
 
 ##
@@ -19,6 +21,8 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
+##
+
 ### Other knowledge:
 
 <div>
@@ -29,6 +33,8 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /> 
 </div>
 
+##
+
 ### Tools:
 
 <div>
@@ -38,6 +44,7 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
+##
 
 ### Operational systems:
 
