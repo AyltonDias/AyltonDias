@@ -1,10 +1,10 @@
 ### Hello World!! 👋
 
-### And welcome to my domain...
+### And welcome to my domain... mua hahaha!
 
-- 🌱 Studying forever and just for fun.
-- 👯 I’m looking to collaborate on a team.
-- 😄 Pronouns: he/him.
+- 🌱 Studying forever and just for fun...
+- 👯 I’m looking to collaborate on a team...
+- 😄 Pronouns: he/him...
 
 ##
 
